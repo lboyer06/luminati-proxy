@@ -7,9 +7,9 @@ This tool requires a [Luminati] account.
 $ sudo npm install -g hola/luminati-proxy
 ```
 
-### Usage
+### Usage node.js
 ```sh
-$ luminati-proxy --customer MY_CUSTOMER --password MY_PASSWORD
+node luminati-proxy --customer MY_CUSTOMER --password MY_PASSWORD
 ```
 
 [Luminati]: <https://luminati.io/>
